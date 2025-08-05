@@ -5,3 +5,12 @@ The form-data can be sent as URL variables (with method="get") or as HTTP post t
 
 The default HTTP method when submitting form data is GET. 
 
+data adding by dev 2
+
+<form action="/action_page.php">
+  <label for="fname">First name:</label><br>
+  <input type="text" id="fname" name="fname" value="John"><br>
+  <label for="lname">Last name:</label><br>
+  <input type="text" id="lname" name="lname" value="Doe"><br><br>
+  <input type="submit" value="Submit">
+</form>
