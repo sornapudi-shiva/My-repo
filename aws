@@ -4,3 +4,11 @@
   <label for="lname">Last name:</label><br>
   <input type="text" id="lname" name="lname">
 </form>
+
+Some characters are reserved in HTML.
+
+If you use the less than (<) or greater than (>) signs in your HTML text, the browser might mix them with tags.
+
+Entity names or entity numbers can be used to display reserved HTML characters.
+
+Entity names look like this:
